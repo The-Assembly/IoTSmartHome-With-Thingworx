@@ -1,5 +1,9 @@
 # Build An IoT Smart Home Automation System Using Thingworx
-Dec 14th @ in5 - Hands-on Internet Of Thing workshop with Etisalat Digital.  At this session, we’ll create a modular solution using  Etisalat's Thingworx IoT Platform to automate home controls like lights, locks and cameras over the internet. We’ll show you how to set up hardware attached to remote edge devices to be monitored and controlled over the internet in real time, sync and model device data with the cloud and build a web-based user interface to aggregate our functions.  At the culmination of the workshop, you will have all the tools and know-how to build your own custom system from scratch in a matter of hours.
+Dec 14th @ in5 - Hands-on Internet Of Things workshop with Etisalat Digital.  
+
+At this session, we’ll create a modular solution using  Etisalat's Thingworx IoT Platform to automate home controls like lights, locks and cameras over the internet. We’ll show you how to set up hardware attached to remote edge devices to be monitored and controlled over the internet in real time, sync and model device data with the cloud and build a web-based user interface to aggregate our functions.  
+
+At the culmination of the workshop, you will have all the tools and know-how to build your own custom system from scratch in a matter of hours.
 
 # Summary of steps
 (Watch the live stream on http://www.facebook.com/makesmartthings)
