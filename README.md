@@ -58,7 +58,21 @@ At the culmination of the workshop, you will have all the tools and know-how to 
 	8. Call the Copy service from FileTransferSubsystem - set targetRepo='FileRepo_<userid>', targetFile = 'Camera.jpg', targetPath = "/", sourceRepo = 'SmartHomeSystem_<userid>", sourcePath = 'images', sourceFile = 'Camera.jpg'
 	9. Run GetFileListing service on FileRepo_<userid> thing to see that file copied
 
-## Connect Pi camera, lock and LED as shown in diagram in presentation
+## Connect Pi camera, lock and LED 
+
+![Circuit Diagram](https://user-images.githubusercontent.com/32713072/70834753-9834d580-1e14-11ea-85be-c6c02cd0c4fb.jpg) 
+
+<p align="center"> <b> Circuit Diagram </b> </p>
+
+<br/>
+
+![connect-camera](https://user-images.githubusercontent.com/32713072/70834999-34f77300-1e15-11ea-8ed5-6690bb2ac3b7.gif)
+
+<p align="center"> <b> Camera Connection </b> </p>
+
+<br/>
+
+
 ## Run Python Code for functions on Pi (to be added>
 
 ## Bind SmartHomeSystem thing using LUAScriptResource
