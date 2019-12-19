@@ -1,3 +1,4 @@
+# Importing all the necessary libraries 
 from picamera import PiCamera
 import datetime
 import time 
