@@ -43,7 +43,7 @@ At the culmination of the workshop, you will have all the tools and know-how to 
 ## Configure EMS on Raspberry Pi
 	1. In microserver directory - edit config.json with IP Address& port of server and AppKey. Also specify HTTP server settings as 127.0.0.1 and give a port number for that as well (eg; 8000, 8080, 8084).
 	2. Start wsems.exe
-	3. Try CURL on Pi with HTTP request (as done earlier) - instead of specifying the server IP Address, specify the local EMS HTTP server address - you can leave out the AppKey header this time
+	3. Try CURL on Pi with HTTP request (as done earlier) - instead of specifying the server IP Address, specify the local EMS HTTP server address - you can leave out the AppKey header this time (Test commands listed in Misc/curlcommands.txt)
 
 ## Transfer files to Thingworx repository using EMS
 	1. Add autobind parameters for SmartHomeSystem_<userid> in config.json - specify HTTP server port
