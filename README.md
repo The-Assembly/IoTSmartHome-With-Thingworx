@@ -73,7 +73,14 @@ At the culmination of the workshop, you will have all the tools and know-how to 
 <br/>
 
 
-## Run Python Code for functions on Pi (to be added>
+## Run Python Code for functions on Pi 
+	1. Drag the python files under misc folder and drop them to the Desktop on the Pi.
+	2. Make sure that the circuit from the daigram above is connected (LED, servo lock and the camera)
+	3. To test out any of the python scripts, open the Terminal -> cd Desktop -> python <pythonfile>.py
+	4. LedOn.py and LEDOff.py scripts trigger the LED on the Pi.
+	5. DoorOpen.py and DoorClose.py scripts trigger the Servo on the Pi.
+	6. Camera.py enables the camera, takes a picture and saves the image in the images directory, located in the microserver directory. It also records the time the picture was taken as a timestamp.
+	7. RefreshLedLock.py runs everytime a service is called and autorefreshes the LED and Lock value.	
 
 ## Bind SmartHomeSystem thing using LUAScriptResource
 	1. Edit config.lua, add
